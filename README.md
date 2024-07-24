@@ -6,7 +6,7 @@ Email spam detection is used to identify and filter out spam emails from the bul
 
 • The project code completely done using Python on Jupyter Notebook
 
-• Started with 2962 observations and 2 columns
+• Started with 3002 observations and 2 columns
 
 ## STEPS TAKEN
 
